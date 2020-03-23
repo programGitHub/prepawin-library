@@ -1,6 +1,6 @@
 {
   "name": "prepawin-library",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "private": true,
   "dependencies": {},
   "scripts": {
@@ -28,6 +28,7 @@
   },
   "devDependencies": {
     "@babel/cli": "^7.8.4",
+    "@babel/preset-env": "^7.9.0",
     "@babel/preset-react": "^7.9.1",
     "cross-env": "^7.0.2",
     "fs-extra": "^9.0.0",
